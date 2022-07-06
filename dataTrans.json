@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "bulan": "Januari",
+    "tagihan": "40000",
+    "status": "Lunas.\r\n"
+  },
+  {
+    "id": 1,
+    "bulan": "Februari",
+    "tagihan": "30000",
+    "status": "Lunas.\r\n"
+  },
+  {
+    "id": 2,
+    "bulan": "Maret",
+    "tagihan": "50000",
+    "status": "Belum Lunas.\r\n"
+  },
+  {
+    "id": 3,
+    "bulan": "April",
+    "tagihan": "30000",
+    "status": "Lunas.\r\n"
+  },
+  {
+    "id": 4,
+    "bulan": "Mei",
+    "tagihan": "50000",
+    "status": "Belum Lunas.\r\n"
+  },
+  {
+    "id": 5,
+    "bulan": "Juni",
+    "tagihan": "25000",
+    "status": "Belum Lunas.\r\n"
+  }
+]
