@@ -28,11 +28,5 @@
     "bulan": "Mei",
     "tagihan": "50000",
     "status": "Belum Lunas.\r\n"
-  },
-  {
-    "id": 5,
-    "bulan": "Juni",
-    "tagihan": "25000",
-    "status": "Belum Lunas.\r\n"
   }
 ]
